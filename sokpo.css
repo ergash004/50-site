@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(255, 230, 0);
+  }
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    color: rgb(240, 0, 0);
+    font-size: 3em;
+}

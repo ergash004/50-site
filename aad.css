@@ -1,0 +1,13 @@
+
+body { 
+    background-color: rgb(0, 3, 175); 
+  } 
+div { 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: 500px; 
+    color: rgb(255, 0, 242); 
+    font-size: 3em;
+     
+}
